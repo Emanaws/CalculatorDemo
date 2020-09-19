@@ -1,0 +1,10 @@
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.exe.config
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.exe
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.pdb
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.csprojAssemblyReference.cache
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.Properties.Resources.resources
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.GenerateResource.cache
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.exe
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.pdb
+C:\Users\Renen\Desktop\Crash Course\WEEk5\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.Calculator.resources
